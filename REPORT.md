@@ -1,7 +1,6 @@
 # TrustVerify – Project Report
 
-**Course:** Cybersecurity / Applied Cryptography  
-**Deadline:** 29 March 2026  
+**Course:** Information security/ Applied Cryptography    
 **Tool:** TrustVerify — A CLI for File Integrity & Digital Signatures
 
 ---
@@ -77,4 +76,3 @@ scheme (stronger than the older PKCS#1 v1.5 padding).
 
 ---
 
-*Report length: ~500 words (within 2-page limit)*
